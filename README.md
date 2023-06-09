@@ -14,7 +14,7 @@ To create this project we used two preojects which previously made a similar app
 - The first one, the <a href="https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2">Cosmic Watch </a>project which we used it's scintillators and the general idea for the project
 - The second project, <a href="https://github.com/OpenGammaProject/Open-Gamma-Detector">Open Gamma</a> project which its version 2 schematic was used in our project
 
-I would like to thank both the creators of this project to answer to our questions and help us whith our project.
+We would like to thank both the creators of this project for answering our questions and helping us whith our project.
 
 
 
