@@ -1,8 +1,6 @@
 # AMON - 2023
 Tots els drets reservats.
 
-Pàgina web: http://amon.cat/
-
 Vídeo informatiu: https://vimeo.com/811061903?share=copy
 
 DESCRIPTION
